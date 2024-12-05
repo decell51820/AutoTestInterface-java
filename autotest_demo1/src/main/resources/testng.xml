@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<suite name = "test">
+    <test name = "login">
+        <classes>
+            <class name = "autoTest.testng.testsuite.suiteConfig"/>
+            <class name = "autoTest.testng.testsuite.loginTest"/>
+        </classes>
+    </test>
+    <test name = "pay">
+        <classes>
+            <class name = "autoTest.testng.testsuite.suiteConfig"/>
+            <class name = "autoTest.testng.testsuite.payTest"/>
+            <class/>
+        </classes>
+    </test>>
+</suite>
