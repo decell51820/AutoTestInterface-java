@@ -1,0 +1,7 @@
+[{
+  "description": "这是第一个demo",
+  "request": {"uri": "/demo"},
+  "response": {
+
+    "text": "this is a moco workformat demo"}
+}]

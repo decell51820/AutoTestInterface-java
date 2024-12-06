@@ -1,0 +1,10 @@
+[{
+  "description": "this is a no parameters for get requests",
+  "request": {
+    "uri": "/demo/NoParameters/GET_requests",
+    "method":"get"
+  },
+  "response": {
+    "text": "no parameters for get requests"
+  }
+}]

@@ -1,0 +1,12 @@
+[
+  {
+  "description": "this is post request demo",
+  "request": {
+    "uri": "/demo/Post_requests",
+    "method": "post"
+    },
+  "response": {
+    "text":"I am come back"
+    }
+  }
+]

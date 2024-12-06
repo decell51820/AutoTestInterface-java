@@ -1,0 +1,12 @@
+[{
+  "description": "this is post request demmo",
+  "request": {
+    "uri": "/demo/Parameters/GET_requests",
+    "method": "get",
+    "queries": {
+      "name": "zhangsan",
+      "age": "10"
+    }
+  },
+  "response": {"text":"I am come back"}
+}]
